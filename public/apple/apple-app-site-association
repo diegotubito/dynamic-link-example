@@ -1,0 +1,10 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+        {
+            "appID": "S2BEC8V882.ddg.DynamicLinksExample",
+            "paths": ["*"]
+        }]
+    }
+}
