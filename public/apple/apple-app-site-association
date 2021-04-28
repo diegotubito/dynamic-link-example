@@ -1,9 +1,14 @@
 {
     "applinks": {
-        "apps": [],
+        "apps": ["W65RNM3F9X.com.arionkoder.capture",
+		"S2BEC8V882.ddg.DynamicLinksExample"],
         "details": [
         {
             "appID": "S2BEC8V882.ddg.DynamicLinksExample",
+            "paths": ["*"]
+        },
+        {
+            "appID": "W65RNM3F9X.com.arionkoder.capture",
             "paths": ["*"]
         }]
     }

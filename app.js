@@ -10,7 +10,6 @@ app.get('/hola_mundito', function (req, res) {
 })
 
 app.get('/apple-app-site-association', (req, res) => {
-    console.log("sending a file");
     res.sendFile( __dirname + '/public/apple/apple-app-site-association');
 })
 
